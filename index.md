@@ -40,13 +40,13 @@ Get a reference to the layout's `SmartImageView`:
 SmartImageView myImage = (SmartImageView) this.findViewById(R.id.my_image);
 {% endhighlight %}
 
-{% highlight java %}
 Load an image into the view from a URL:
+{% highlight java %}
 myImage.setImageUrl("http://www.awesomeimages.com/myawesomeimage.jpg");
 {% endhighlight %}
 
-{% highlight java %}
 Load an image into the view from the phone's contact address book:
+{% highlight java %}
 myImage.setImageUrl(contactAddressBookId);
 {% endhighlight %}
 
