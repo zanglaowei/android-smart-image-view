@@ -47,7 +47,7 @@ myImage.setImageUrl("http://www.awesomeimages.com/myawesomeimage.jpg");
 
 Load an image into the view from the phone's contact address book:
 {% highlight java %}
-myImage.setImageUrl(contactAddressBookId);
+myImage.setImageContact(contactAddressBookId);
 {% endhighlight %}
 
 
