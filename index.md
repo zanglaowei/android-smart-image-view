@@ -18,10 +18,11 @@ address book. Images are cached to memory and to disk for super fast loading.
 Features
 --------
 - Drop-in replacement for `ImageView`
-- Load images from a URL
-- Load images from the phone's contact address book
-- Images are cached to memory and to disk for super fast loading
-- `SmartImage` class is easily extendable to load from other sources
+- Load images from a **URL**
+- Load images from the phone's **contact address book**
+- Asynchronous loading of images, loading happens **outside the UI thread**
+- Images are **cached** to memory and to disk for **super fast loading**
+- `SmartImage` class is easily **extendable** to load from other sources
 
 
 Installation & Basic Usage
