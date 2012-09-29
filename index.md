@@ -3,7 +3,7 @@ layout: project
 title: Android Smart Image View
 tagline: Load Images from URLs or Android Contacts with Caching
 version: 1.0.0
-github_url: https://github.com/loopj/android-smart-image-view
+github_repo: android-smart-image-view
 download_url: https://github.com/downloads/loopj/android-smart-image-view/android-smart-image-view-1.0.0.jar
 ---
 
