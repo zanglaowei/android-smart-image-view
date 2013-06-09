@@ -1,0 +1,3 @@
+这是一个重写的ImageView，
+1，使用它解决Bitmap内存溢出的问题
+2，直接使用Url得到Image。
